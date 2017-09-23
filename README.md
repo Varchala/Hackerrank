@@ -5,3 +5,4 @@ Important Practice Questions
 
 *2.)Java SubArray* : Given an array of integers, find and print its number of negative subarrays on a new line. link-https://www.hackerrank.com/challenges/java-negative-subarray/problem
     
+*3.)Hour glass* : Print the largest sum among all the hourglasses in the array. link-https://www.hackerrank.com/challenges/java-2d-array/problem
